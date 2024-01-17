@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-aardvarkzone
 
-Deployed at: https://jpa02-aardvarkzone.dokku-03.cs.ucsb.edu
+Deployed at: http://jpa02-aardvarkzone.dokku-03.cs.ucsb.edu/
 
 # About this repo
 
